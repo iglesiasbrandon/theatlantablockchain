@@ -2,177 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d19957c2-357c-4ec4-9843-c688547d49f6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/atvSponsorLogo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/bitcoindepotSponsorLogo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/bitcraftSponsorLogo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/carltonFieldsSponsorLogo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/edgeSponsorLogo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/foundersLegalSponsorLogo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/ginosSponsorLogo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/hidemeSponsorLogo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/protectingcoinSponsorLogo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/tierionSponsorLogo.png" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-blog-clean.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-blog-grid.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-blog-masonry.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-blog-personal.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-classic-corporate.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-classic-innovation-agency.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-classic-interactive-agency.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-classic-one-page-gallery.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-classic-one-page.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-classic-web-agency.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-creative-branding-agency.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-creative-business.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-creative-designer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-creative-simple-portfolio.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-creative-small-business.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-creative-studio.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-portfolio-centered-slides.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-portfolio-full-screen-vertical.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-portfolio-metro.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-portfolio-minimal.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-portfolio-multiple-carousel.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-portfolio-parallax.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-portfolio-personal.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home-portfolio-photographer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/back-image1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/back-image2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/back-image3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/back-image4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/back-image5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/back-image6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/clients-logo1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/clients-logo2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/clients-logo3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/clients-logo4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/clients-logo5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/clients-logo6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/clients-logo7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/clients-logo8.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/digital-text.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/explore-work-02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/homepage-option15-image-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/homepage-option18-banner.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/homepage-option18-image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/homepage-option19-arrow-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/image-icon1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/image-icon10.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/image-icon11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/image-icon12.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/image-icon13.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/image-icon2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/image-icon3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/image-icon4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/image-icon6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/image-icon7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/image-icon8.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/image-icon9.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-10.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-12.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-13.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-14.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-15.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-17.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-18.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-19.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-20.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-21.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-22.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-23.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-24.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-25.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-26.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-27.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-28.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-29.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-30.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-8.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo-9.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-05.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-06.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-07.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-08.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-09.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-10.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-12.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-13.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-14.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-15.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-17.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-18.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-19.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-20.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-21.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-22.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-23.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-icon-24.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-menu-options-img-14.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-blog-clean.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-blog-grid.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-blog-masonry.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-blog-personal.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-branding-agency.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-centered-slides.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-classic-corporate.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-classic-one-page.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-classic-start-up.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-coming-soon-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-coming-soon.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-creative-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-creative-designer.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-creative-studio.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-digital-agency.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-full-screen-vertical.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-innovation-agency.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-interactive-agency.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-layout-img-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-layout-img-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-layout-img-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-layout-img-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-layout-img-05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-layout-img-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-layout-img-07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-layout-img-08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-left-menu-classic.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-metro-portfolio.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-minimal.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-multiple-carousel.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-parallax.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-personal.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-photographer.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-small-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pofo-portfolio-web-agency.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -190,12 +19,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="263" column="30" lean-forward="false" selection-start-line="263" selection-start-column="30" selection-end-line="263" selection-end-column="30" />
+            <state relative-caret-position="353">
+              <caret line="122" column="8" lean-forward="true" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="8" />
               <folding>
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -304,7 +134,7 @@
       <workItem from="1522008899209" duration="224000" />
       <workItem from="1522192134569" duration="1139000" />
       <workItem from="1523385918090" duration="418000" />
-      <workItem from="1523386714474" duration="26000" />
+      <workItem from="1523386714474" duration="684000" />
     </task>
     <task id="LOCAL-00001" summary="test push">
       <created>1519998827726</created>
@@ -317,19 +147,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5579000" />
+    <option name="totallyTimeSpent" value="6237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.117553614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.117553614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -364,6 +195,7 @@
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -380,6 +212,7 @@
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -396,6 +229,7 @@
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -412,6 +246,7 @@
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -428,6 +263,7 @@
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -444,6 +280,7 @@
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -460,6 +297,7 @@
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -497,12 +335,13 @@
     <entry file="file://$PROJECT_DIR$/home-index.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="263" column="30" lean-forward="false" selection-start-line="263" selection-start-column="30" selection-end-line="263" selection-end-column="30" />
+        <state relative-caret-position="353">
+          <caret line="122" column="8" lean-forward="true" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="8" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
